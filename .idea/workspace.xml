@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db8c8f3d-9496-4b4c-a7a4-d4c936ca8b30" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/capitulo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 10.1 – locale-pt-br.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 10.2 – l10n.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 11.1 – messages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 12.1 – promises.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 12.2 – promises-chain.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 2.1 - hello-name.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.1 – hello-world-controller.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.10 – random-position.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.2 – controller-aninhado.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.3 – modulo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.4 – value-recipe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.5 – constant-recipe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.6 – factory-recipe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.7 – service-recipe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.8 – conta-usuario.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 3.9 – input-focus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 4.1 – formulario.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 4.2 – formulario-com-css.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 4.3 – formulario-com-validacao.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 4.4 – watch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 4.5 – css-ng-class.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 4.6 – css-class-expression.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 4.7 – css-class-map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 5.1 – filtro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 5.2 – filtro-com-parametro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 5.3 – filtro-varios-parametros.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 6.1 – false-scope-directive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 6.2 – true-scope-directive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 6.3 – isolated-scope-directive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 6.4 – scope-directive-bindings.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 6.5 – scope-directive-bindings-twoway.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 6.6 – transclude-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 6.7 – dir-inner-controller.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 6.8 – directive-lifecycle-pre-post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 6.9 – ng-repeat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 7.1 – compile-linking-sim.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 7.2 – eval-async-timeout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 8.1 – eventos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 8.2 – evento-com-argumentos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo 9.1 – rotas-hashbang.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/exemplo12.3 – cache.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/livro.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="livro_angularjs_abordagem_pratica_objetiva.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="livro_angularjs_abordagem_pratica_objetiva" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2549575" vertical-offset="0" max-vertical-offset="930">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <gruntfiles>
+      <GruntfileState>
+        <gruntfile-path>$PROJECT_DIR$/Gruntfile.js</gruntfile-path>
+      </GruntfileState>
+    </gruntfiles>
+    <initial>false</initial>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="852" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livro_angularjs_abordagem_pratica_objetiva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livro_angularjs_abordagem_pratica_objetiva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livro_angularjs_abordagem_pratica_objetiva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livro_angularjs_abordagem_pratica_objetiva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livro_angularjs_abordagem_pratica_objetiva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livro_angularjs_abordagem_pratica_objetiva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="livro_angularjs_abordagem_pratica_objetiva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db8c8f3d-9496-4b4c-a7a4-d4c936ca8b30" name="Default" comment="" />
+      <created>1421017840095</created>
+      <updated>1421017840095</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="852" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970026" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2549575" vertical-offset="0" max-vertical-offset="930">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
